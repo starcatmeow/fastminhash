@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name = 'fastminhash',
     packages = ['minhash'],
-    version = '0.1.0',
+    version = '0.1.1',
     license = 'MIT',
     description = 'N-gram MinHash implementation in C',
     author = 'starcatmeow',
